@@ -8,7 +8,7 @@ Ensure you have Go installed or use Docker to run the service.
 
 ### Running with Go
 ```sh
-git clone https://github.com/your-repo/receipt-processor.git
+git clone https://github.com/manju1201/backendDevelopmentProject.git
 cd receipt-processor
 go mod tidy
 go run main.go
