@@ -12,7 +12,3 @@ git clone https://github.com/your-repo/receipt-processor.git
 cd receipt-processor
 go mod tidy
 go run main.go
-
-
-docker build -t receipt-processor .
-docker run -p 8080:8080 receipt-processor
